@@ -5,7 +5,7 @@ public class Sample2 {
 	
 		System.out.println("hello");
 		System.out.println("hello"); //pushing
-		///////////////////////////////////
+		//pull
 		}
 
 }
